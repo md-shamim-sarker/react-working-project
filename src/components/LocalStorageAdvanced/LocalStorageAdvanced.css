@@ -1,0 +1,11 @@
+.local-storage-advanced {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    border: 1px solid gray;
+    margin: 2rem
+}
+
+.local-storage-advanced>h2 {
+    margin: 2rem;
+    border: 1px solid gray;
+}
